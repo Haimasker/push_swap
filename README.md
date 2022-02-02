@@ -33,9 +33,9 @@ The purpose of this project is to code algorithm for sorting list of integers us
 ``push_swap`` should sort in ascending order numbers into stack and display a sequence <br>
 of instructions that can sort given stack.
 
-You can see the subject here: [`push_swap`](en.subject.pdf).
+You can see the subject here: [push_swap](en.subject.pdf).
 
-Main requirements, rules and code style: [`Norm`](en_norm.pdf).
+Main requirements, rules and code style: [Norm](en_norm.pdf).
 
 ---
 
@@ -140,7 +140,7 @@ ARG="3 5 2 7 9"; ./push_swap $ARG | ./checker $ARG
 * You can check code norm due to [norminette](https://github.com/42School/norminette).
 
 * Following checkers should be executed in way like ``checker`` in this project:
-  * [`Linux checker`](checker_linux)
-  * [`MacOS checker`](checker_Mac)
+  * [Linux checker](checker_linux)
+  * [MacOS checker](checker_Mac)
 
 * [push_swap_tester](https://github.com/SimonCROS/push_swap_tester)
